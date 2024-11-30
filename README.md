@@ -1,2 +1,12 @@
 # CPE-LAB-3
+
 CPE 2101L
+
+
+Lauron, John Enrico D.
+
+
+BS CpE - 2
+
+
+CPE 2101L - OBJECT ORIENTED PROGRAMMING
